@@ -24,7 +24,7 @@ ff-fft = { git = "https://github.com/celo-org/zexe", rev = "72ad6a13011ce96eb92e
 bench-utils = { git = "https://github.com/celo-org/zexe", rev = "72ad6a13011ce96eb92e686bda59dedc5ece59ee" }
 r1cs-core = { git = "https://github.com/celo-org/zexe", rev = "72ad6a13011ce96eb92e686bda59dedc5ece59ee", default-features = false }
 
-poly-commit = { git = "https://github.com/celo-org/poly-commit", rev = "1fc90ca5cc2d8a67f5ea44f5367e02fe1319d166", default-features = false }
+poly-commit = { git = "https://github.com/celo-org/poly-commit", rev = "b041d623a66775841c921fb6a512208da04e7e27", default-features = false }
 
 rand_core = { version = "0.5" }
 rand_chacha = { version = "0.2.1", default-features = false }
